@@ -1,0 +1,1158 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-10-08T20:24:25.345Z",
+  "announcementAr": "🎉 أقوى عروض اليوم في الرياض وجميع المدن - وفّر حتى 70% مع كبرى المتاجر العالمية والمحلية!",
+  "announcementEn": "🎉 Today's top offers in Riyadh and all cities - Save up to 70% on top global & local brands!",
+  "announcementBar": {
+    "message": {
+      "ar": "نحتفل معكم باليوم الوطني السعودي، ونشارككم فرحة وطنٍ عزيز، وتاريخٍ نفخر به، ومستقبلٍ نصنعه معًا.          ",
+      "en": "We’re celebrating Saudi National Day with you, honoring a nation we’re proud of, its remarkable journey, and a future we build together.    "
+    },
+    "action": {
+      "type": "coupon",
+      "targetId": "c_1790390229486"
+    }
+  },
+  "welcomeStatement": {
+    "headline": {
+      "ar": "دام عزك يا وطن",
+      "en": "Long live Saudi Arabia"
+    },
+    "subheadline": {
+      "ar": "كل عام والسعودية بخير",
+      "en": "Happy Saudi National Day"
+    }
+  },
+  "heroBanners": [
+    {
+      "id": "banner_noon",
+      "imageUrl": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=800&auto=format&fit=crop&q=80",
+      "storeId": "noon",
+      "headline": {
+        "text": {
+          "ar": "خصم إضافي 15% على الإلكترونيات",
+          "en": "Extra 15% OFF on Electronics"
+        },
+        "color": "#FFDF00"
+      },
+      "subheadline": {
+        "text": {
+          "ar": "على أحدث اللابتوبات والأجهزة الذكية",
+          "en": "On latest laptops & smart tech"
+        },
+        "color": "#FFFFFF"
+      },
+      "code": "WAFF25",
+      "cta": {
+        "text": {
+          "ar": "عرض الكوبون",
+          "en": "View Coupon"
+        },
+        "action": {
+          "type": "coupon",
+          "targetId": "c_1790390373766"
+        }
+      }
+    }
+  ],
+  "featuredBrands": [
+    "mumzworld",
+    "daralamirat",
+    "alnahdi",
+    "niceone",
+    "reef",
+    "noon",
+    "homzmart",
+    "osma",
+    "namshi",
+    "levelshoes"
+  ],
+  "hotDeals": [],
+  "categories": [
+    {
+      "id": "fashionandclothing",
+      "nameAr": "الأزياء والملابس",
+      "nameEn": "Fashion & Clothing",
+      "icon": "shirt",
+      "order": 1
+    },
+    {
+      "id": "shoesandfootwear",
+      "nameAr": "الأحذية",
+      "nameEn": "Shoes & Footwear",
+      "icon": "sport-shoe",
+      "order": 2
+    },
+    {
+      "id": "bagsandaccessories",
+      "nameAr": "الحقائب والإكسسوارات",
+      "nameEn": "Bags & Accessories",
+      "icon": "handbag",
+      "order": 3
+    },
+    {
+      "id": "beautyandpersonal care",
+      "nameAr": "الجمال والعناية الشخصية",
+      "nameEn": "Beauty & Personal Care",
+      "icon": "sparkles",
+      "order": 4
+    },
+    {
+      "id": "perfumesandfragrances",
+      "nameAr": "العطور",
+      "nameEn": "Perfumes & Fragrances",
+      "icon": "spray-can",
+      "order": 5
+    },
+    {
+      "id": "skincare",
+      "nameAr": "العناية بالبشرة",
+      "nameEn": "Skincare",
+      "icon": "tube-lotion",
+      "order": 6
+    },
+    {
+      "id": "haircare",
+      "nameAr": "العناية بالشعر",
+      "nameEn": "Hair Care",
+      "icon": "droplet",
+      "order": 7
+    },
+    {
+      "id": "makeup",
+      "nameAr": "المكياج",
+      "nameEn": "Makeup",
+      "icon": "brush",
+      "order": 8
+    },
+    {
+      "id": "healthandpharmacy",
+      "nameAr": "الصحة والصيدلية",
+      "nameEn": "Health & Pharmacy",
+      "icon": "heart-plus",
+      "order": 9
+    },
+    {
+      "id": "babyandmaternity",
+      "nameAr": "الأطفال والأمومة",
+      "nameEn": "Baby & Maternity",
+      "icon": "baby",
+      "order": 10
+    },
+    {
+      "id": "toysandkids",
+      "nameAr": "الألعاب والأطفال",
+      "nameEn": "Toys & Kids",
+      "icon": "toy-brick",
+      "order": 11
+    },
+    {
+      "id": "homeandfurniture",
+      "nameAr": "المنزل والأثاث",
+      "nameEn": "Home & Furniture",
+      "icon": "armchair",
+      "order": 12
+    },
+    {
+      "id": "homeappliances",
+      "nameAr": "الأجهزة المنزلية",
+      "nameEn": "Home Appliances",
+      "icon": "blender",
+      "order": 13
+    },
+    {
+      "id": "electronics",
+      "nameAr": "الإلكترونيات",
+      "nameEn": "Electronics",
+      "icon": "zap",
+      "order": 14
+    },
+    {
+      "id": "mobilesandaccessories",
+      "nameAr": "الهواتف والإكسسوارات",
+      "nameEn": "Mobiles & Accessories",
+      "icon": "smartphone",
+      "order": 15
+    },
+    {
+      "id": "sportsandfitness",
+      "nameAr": "الرياضة واللياقة",
+      "nameEn": "Sports & Fitness",
+      "icon": "volleyball",
+      "order": 16
+    },
+    {
+      "id": "groceriesandfood",
+      "nameAr": "البقالة والمواد الغذائية",
+      "nameEn": "Groceries & Food",
+      "icon": "apple",
+      "order": 17
+    },
+    {
+      "id": "restaurantsandcafés",
+      "nameAr": "المطاعم والمقاهي",
+      "nameEn": "Restaurants & Cafés",
+      "icon": "coffee",
+      "order": 18
+    },
+    {
+      "id": "travelandhotels",
+      "nameAr": "السفر والفنادق",
+      "nameEn": "Travel & Hotels",
+      "icon": "tickets-plane",
+      "order": 19
+    },
+    {
+      "id": "automotiveandtransportation",
+      "nameAr": "السيارات والتنقل",
+      "nameEn": "Automotive & Transportation",
+      "icon": "bridge",
+      "order": 20
+    },
+    {
+      "id": "jewelryandwatches",
+      "nameAr": "المجوهرات والساعات",
+      "nameEn": "Jewelry & Watches",
+      "icon": "watch",
+      "order": 21
+    },
+    {
+      "id": "homeandgarden",
+      "nameAr": "المنزل والحديقة",
+      "nameEn": "Home & Garden",
+      "icon": "plant-pot",
+      "order": 22
+    },
+    {
+      "id": "couponsanddeals",
+      "nameAr": "الكوبونات والعروض",
+      "nameEn": "Coupons & Deals",
+      "icon": "ticket-percent",
+      "order": 23
+    },
+    {
+      "id": "general",
+      "nameAr": "عام",
+      "nameEn": "General",
+      "icon": "shopping-bag",
+      "order": 24
+    }
+  ],
+  "stores": [
+    {
+      "id": "mumzworld",
+      "nameAr": "ممزورلد",
+      "nameEn": "Mumzworld",
+      "logoUrl": "https://www.mumzworld.com/assets/images/newMumzLogoENIcon.svg",
+      "coverUrl": "https://media-cms.mumzworld.com/BRANDINSPOTLIGHT_WATERWIPES_320f67b17f.jpg?format=webp&width=384&height=463",
+      "category": "babyandmaternity",
+      "websiteUrl": "https://www.mumzworld.com/global-en",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "وجهتك الأولى لكل ما يتعلق بالأمومة: أفضل متجر إلكتروني لمنتجات الأطفال\n\nممزورلد هو متجرك الموثوق لمنتجات الأطفال، حيث نوفر كل ما تحتاجه الأم والطفل، بدءًا من منتجات الأم الحامل وحتى مجموعة متكاملة من مستلزمات وأنشطة الأطفال الرضع. تضم مجموعتنا كل ما تحتاجينه في مختلف مراحل نمو طفلك، بما في ذلك أغذية وحليب الأطفال، ومستلزمات الرضاعة بالزجاجة، ومنتجات الرضاعة الطبيعية، إلى جانب الاحتياجات اليومية الأساسية مثل حفاضات الأطفال، والمناديل المبللة، وحقائب مستلزمات الأطفال.\n\nنساعدك أيضًا على تجهيز منزلك بكل ما يلزم، من أثاث الأطفال، والأجهزة المنزلية الذكية، وأحواض استحمام الأطفال، إلى جانب أجهزة مراقبة الأطفال ومستلزمات تناول الطعام، بما في ذلك الكراسي العالية ومقاعد الأطفال الداعمة، لتوفير مزيد من الراحة والاطمئنان.\n\nولحياتك اليومية خارج المنزل، يمكنك اكتشاف مجموعة مميزة من عربات الأطفال وعربات الدفع، ومقاعد السيارة ومقاعد الأطفال الداعمة. كما نساعد على تنمية مهارات طفلك وإضفاء المزيد من المرح على يومه من خلال الألعاب التعليمية للأطفال، وألعاب الرضع وأطفال ما قبل المدرسة، ومجموعات اللعب والأنشطة الداخلية.",
+      "descriptionEn": "The Premier Destination for Motherhood: The Best Online Baby Shop in Online\nMumzworld is your trusted baby shop providing everything from pregnant mumz products to a complete range of infant activity gear. Our collection covers every stage, featuring baby food & formula, baby bottle feeding sets, and breast feeding products, alongside daily essentials like baby diapers, baby wipes, and baby diaper bags.\n\nWe ensure your home is ready with baby furniture, smart appliances, and baby bathtubs, while our baby monitors and mealtime essentials, including high chairs & boosters, offer peace of mind. For life on the go, discover top-rated baby strollers & prams and car seats & boosters. We also spark joy and development through educational toys for kids, baby toys & preschool toys, and engaging indoor play & activity sets.",
+      "isFeatured": true,
+      "tags": [],
+      "categories": [
+        "babyandmaternity"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM",
+        "EG"
+      ],
+      "logo": "https://www.mumzworld.com/assets/images/newMumzLogoENIcon.svg",
+      "bannerUrl": "https://media-cms.mumzworld.com/BRANDINSPOTLIGHT_WATERWIPES_320f67b17f.jpg?format=webp&width=384&height=463"
+    },
+    {
+      "id": "noon",
+      "nameAr": "نون",
+      "nameEn": "Noon",
+      "logoUrl": "https://f.nooncdn.com/s/app/com/noon/design-system/logos/revamp-logo-en-smaller.svg",
+      "coverUrl": "https://a.nooncdn.com/mpcms/EN0001/assets/93b4f327-65cb-4f37-9a44-6f427720b70f.png?width=2400",
+      "category": "makeup",
+      "websiteUrl": "https://www.noon.com/uae-en/",
+      "rating": 5,
+      "totalReviews": 120,
+      "descriptionAr": "نون هو سوق إلكتروني آمن وسهل الاستخدام، يوفّر ملايين المنتجات الأصلية في مجموعة واسعة من الفئات، بما في ذلك الإلكترونيات، والأزياء، والجمال، والمنزل، ومنتجات الأطفال، والبقالة، والرياضة، والكتب، وغيرها الكثير.\n\nنحرص على تقديم تجربة تسوق عالمية المستوى من خلال التوصيل السريع، وخيارات الدفع المرنة، وسياسة الإرجاع السهلة، وخدمة عملاء موثوقة.\n\nجميع المنتجات مدعومة بضمان الأصالة الخاص بنا، بالإضافة إلى الضمان المطبق على المنتجات حسب كل حالة. ومع قوائم الأمنيات، وبطاقات الهدايا، والعروض المتجددة باستمرار، والمزايا المصممة خصيصًا للتطبيق، يجعل نون التسوق عبر الإنترنت أكثر سهولة ووفرة في الخيارات، مع وضع احتياجات العميل في المقام الأول.\n\n**كل ما تحتاجه في مكان واحد.**\n",
+      "descriptionEn": "noon is a secure, easy-to-use online marketplace offering millions of authentic products across electronics, fashion, beauty, home, baby, groceries, sports, books, and more. We focus on delivering a world-class shopping experience through fast delivery, flexible payment options, easy returns, and dependable customer support.\n\nEvery product is backed by our authenticity promise and applicable warranty. With wishlists, gift cards, regular deals, and app-first features, noon makes online shopping convenient, affordable, and customer-first. Everything you need in one place.",
+      "isFeatured": true,
+      "tags": [],
+      "categories": [
+        "makeup",
+        "haircare",
+        "skincare",
+        "perfumesandfragrances",
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "beautyandpersonal care",
+        "toysandkids",
+        "homeandfurniture",
+        "babyandmaternity",
+        "homeappliances",
+        "electronics",
+        "mobilesandaccessories",
+        "sportsandfitness",
+        "jewelryandwatches"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM",
+        "EG"
+      ],
+      "logo": "https://f.nooncdn.com/s/app/com/noon/design-system/logos/revamp-logo-en-smaller.svg",
+      "bannerUrl": "https://a.nooncdn.com/mpcms/EN0001/assets/93b4f327-65cb-4f37-9a44-6f427720b70f.png?width=2400"
+    },
+    {
+      "id": "daralamirat",
+      "nameAr": "دار الأميرات",
+      "nameEn": "Dar Alamirat",
+      "logoUrl": "https://cdn.files.salla.network/other/1945128061/37a559da-b000-4a92-a7c2-1f0e0a3f1c70-original.webp",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXdi94hS8ZTxrPzfa6-e1TRjgmDAKOiEWmgwxL4FM_Og&s",
+      "category": "beautyandpersonal care",
+      "websiteUrl": "https://daralamirat.com.sa/ar",
+      "rating": 4.7,
+      "totalReviews": 120,
+      "descriptionAr": "شركة دار الأميرات هي إحدى الشركات الرائدة والمتخصصة في مجال منتجات العناية، ومستحضرات التجميل، وتجهيزات الصالونات، وخدمات الصيدليات في المملكة العربية السعودية. ومنذ تأسيسها عام 2012، حققت الشركة نجاحًا كبيرًا بفضل التزامها بالجودة والابتكار، وتقديم المنتجات والخدمات التي تلبي احتياجات عملائها وفق أعلى معايير الاحترافية.\n\nومن خلال 9 فروع منتشرة في أنحاء المملكة، نفخر بخدمتكم سواء من خلال فروعنا أو عبر منصتنا الإلكترونية التي تغطي جميع مدن المملكة، لضمان تجربة تسوق مريحة وسلسة.\n\nتواصل دار الأميرات تطورها ونموها، بما يعكس التزامنا الراسخ بتقديم قيمة حقيقية لعملائنا وتحقيق تطلعاتهم في مجال العناية والجمال.\n\nفي دار الأميرات، نقدم مجموعة واسعة من منتجات العناية ومستحضرات التجميل، بالإضافة إلى خدمات بيع وتركيب معدات وأدوات صالونات التجميل. كما نوفر حلولًا متكاملة ومتميزة للصالونات ومراكز التجميل، تشمل توفير معدات عالية الجودة، وخدمات التركيب والتدريب، لضمان أفضل تجربة ممكنة للعملاء.\n\nوتفخر دار الأميرات بتعاونها مع أكثر من 20 وكالة لعلامات تجارية عالمية شهيرة، مما يتيح لها تقديم مجموعة متنوعة من المنتجات التي تتميز بالجودة العالية والابتكار، وبأسعار تناسب جميع عملائنا في المملكة العربية السعودية.\n",
+      "descriptionEn": "Dar Al Amirat Company is one of the leading companies specialized in the field of care products, makeup, salons, and pharmacy services in the Kingdom of Saudi Arabia. Since its establishment in 2012, the company has achieved great success thanks to its commitment to quality and innovation in providing products and services that meet the needs of its customers with the highest standards of professionalism.\n\nWith 9 branches across the Kingdom, we are proud to serve you whether in stores or through our online platform that covers all cities in the Kingdom, to ensure a comfortable and smooth shopping experience.\n\nDar Al Amirah continues to evolve and grow, reflecting our deep commitment to providing real value to our customers and fulfilling their aspirations in the field of care and beauty.\n\nAt Dar Al Amirah, we offer a wide range of care and makeup products, in addition to sales and installation services for beauty salon equipment and tools. We provide integrated and distinguished solutions for salons and beauty centers, including providing high-quality equipment, installation and training services to ensure the best customer experience.\n\nDar Al Amirat is proud to collaborate with more than 20 agencies for world-famous brands, allowing it to offer a range of products that are characterized by high quality and innovation at prices that suit all our customers in the Kingdom of Saudi Arabia.",
+      "isFeatured": true,
+      "tags": [],
+      "categories": [
+        "beautyandpersonal care",
+        "makeup",
+        "skincare"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM",
+        "EG"
+      ],
+      "logo": "https://cdn.files.salla.network/other/1945128061/37a559da-b000-4a92-a7c2-1f0e0a3f1c70-original.webp",
+      "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXdi94hS8ZTxrPzfa6-e1TRjgmDAKOiEWmgwxL4FM_Og&s"
+    },
+    {
+      "id": "homzmart",
+      "nameAr": "هومز مارت",
+      "nameEn": "Homzmart",
+      "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1oK0-tjIAVVXTGx_IL0sWuk6weyUitgxj6uVwwxK7Q&s=10",
+      "coverUrl": "https://homzmart-images.s3.eu-west-1.amazonaws.com/blocks/1st_image.png",
+      "category": "homeandfurniture",
+      "websiteUrl": "https://homzmart.com/en",
+      "rating": 4.5,
+      "totalReviews": 120,
+      "descriptionAr": "**هومز مارت (Homzmart)** هو متجرك الشامل الذي يمكنك من خلاله شراء كل ما تحتاجه للمنزل، بدءًا من الأثاث ووصولًا إلى الأدوات والمستلزمات المنزلية وغيرها الكثير!\n\n* نعمل على تعزيز الثقة في تجربة التسوق الإلكتروني للمنزل، من خلال تقديم حلول تلبي احتياجات العلامات التجارية والمصنّعين والعملاء.\n* نجمع بين قوة التكنولوجيا والخدمات اللوجستية لتوفير تجربة سلسة ومتكاملة للعملاء، بما يحقق قيمة حقيقية لجميع الأطراف.\n* نواصل العمل على تلبية جميع احتياجات المنزل؛ حيث يوفر هومز مارت أكبر تشكيلة من المنتجات لتصميم منزلك وتنسيقه وإضفاء الحيوية عليه، وكل ذلك بضغطة زر واحدة، مع توفير تجربة مريحة تعتمد على التكنولوجيا التنبؤية ونهج يضع العميل في المقام الأول.\n",
+      "descriptionEn": "Homzmart is a one stop shop where you purchase everything from furniture to household items and more!\n\nWe inject confidence into the online home shopping experience by solving for brands, manufacturers, and customers.\nWe combine the power of technology and logistics to provide a seamless experience for the customer; therefore, delivering value to all our stakeholders.\nWe are continuously solving for ‘home’ – Homzmart has the largest selection to design, style and brighten your home all with a single click. Convenience, predictive-tech and customer centric approach.",
+      "isFeatured": true,
+      "tags": [],
+      "categories": [
+        "homeandfurniture"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM",
+        "EG"
+      ],
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW1oK0-tjIAVVXTGx_IL0sWuk6weyUitgxj6uVwwxK7Q&s=10",
+      "bannerUrl": "https://homzmart-images.s3.eu-west-1.amazonaws.com/blocks/1st_image.png"
+    },
+    {
+      "id": "alnahdi",
+      "nameAr": "النهدي",
+      "nameEn": "Al Nahdi",
+      "logoUrl": "\thttps://dam.nahdionline.com/m/327e4991e1ff7c60/original/Nahdi_Logo_White.svg",
+      "coverUrl": "https://dam.nahdionline.com/asset/34f7e244-8ffd-481a-857a-faad5ea72ad1/05_HP_PC_23_Sep_ComBanner_Desktop_5.jpg",
+      "category": "healthandpharmacy",
+      "websiteUrl": "https://www.nahdionline.com/en-sa",
+      "rating": 4.9,
+      "totalReviews": 120,
+      "descriptionAr": "انطلاقًا من إيمان شركة النهدي الطبيّة الراسخ بكونها **«صيدلية مجتمعية»**، فإن دورها لا يقتصر على خدمة المجتمع من خلال منتجاتها فحسب، بل يمتد أيضًا إلى تثقيف أفراده من خلال مجموعة متنوعة من برامج التوعية الصحية وحملات الوقاية.\n\nوتوظف الشركة معرفتها الواسعة بالسوق المحلي وشبكتها الممتدة للاستثمار في تنمية المجتمع السعودي والمساهمة في تعزيز صحته ورفاهيته.",
+      "descriptionEn": "As per our company’s firm belief in being a “community pharmacy”, Nahdi Medical Company doesn’t solely serve the community by its products, but it also educates the society through various health awareness programs and prevention campaigns. The company uses its extensive local knowledge and network to invest in the development of the Saudi community.",
+      "isFeatured": true,
+      "tags": [],
+      "categories": [
+        "healthandpharmacy"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM",
+        "EG"
+      ],
+      "logo": "\thttps://dam.nahdionline.com/m/327e4991e1ff7c60/original/Nahdi_Logo_White.svg",
+      "bannerUrl": "https://dam.nahdionline.com/asset/34f7e244-8ffd-481a-857a-faad5ea72ad1/05_HP_PC_23_Sep_ComBanner_Desktop_5.jpg"
+    },
+    {
+      "id": "osma",
+      "nameAr": "أوسما",
+      "nameEn": "Osma",
+      "logoUrl": "https://cdn.files.salla.network/other/465941588/9c08bdf0-92ff-4815-9b0d-9906c2c74ebc-original.webp",
+      "coverUrl": "https://cdn.files.salla.network/homepage/465941588/34659dee-c48f-4fb9-82f5-ec65b61ba5f8-original.webp",
+      "category": "perfumesandfragrances",
+      "websiteUrl": "https://osmaperfumes.com/ar",
+      "rating": 4.6,
+      "totalReviews": 120,
+      "descriptionAr": "مصدر إلهام اوسما هو الجمع بين عبق الأصالة الشرقية وسحر الحداثة الغربية، لتقديم عطور تعبر عن الفخامة والجاذبية بأسلوب مبتكر وفريد.",
+      "descriptionEn": "Osma draws its inspiration from the fusion of the rich heritage of the East and the allure of Western modernity, creating fragrances that embody luxury and sophistication through an innovative and distinctive approach.",
+      "isFeatured": true,
+      "tags": [],
+      "categories": [
+        "perfumesandfragrances"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM",
+        "EG"
+      ],
+      "logo": "https://cdn.files.salla.network/other/465941588/9c08bdf0-92ff-4815-9b0d-9906c2c74ebc-original.webp",
+      "bannerUrl": "https://cdn.files.salla.network/homepage/465941588/34659dee-c48f-4fb9-82f5-ec65b61ba5f8-original.webp"
+    },
+    {
+      "id": "niceone",
+      "nameAr": "نايس ون",
+      "nameEn": "Niceone",
+      "logoUrl": "https://cdn.niceonesa.com/web/assets_v2/images/ltr_logo.svg?v=2.7.0",
+      "coverUrl": "https://d1aq4ubbxe020v.cloudfront.net/image/catalog%2Fapp_com%2F53472196_1789981709_52fb02233187ffd01f79c6ae99fcad1e-1500x1500.png?format=auto&width=1600",
+      "category": "beautyandpersonal care",
+      "websiteUrl": "https://niceonesa.com/en",
+      "rating": 4.8,
+      "totalReviews": 120,
+      "descriptionAr": "منصة رائدة للتجارة الإلكترونية في الشرق الأوسط، متخصصة في منتجات **الجمال، ومستحضرات التجميل، والعطور، والعناية الشخصية، ومنتجات أسلوب الحياة**.",
+      "descriptionEn": "a leading e-commerce platform in the Middle East specializing in beauty, cosmetics, perfumes, personal care, and lifestyle products",
+      "isFeatured": true,
+      "tags": [],
+      "categories": [
+        "beautyandpersonal care"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM",
+        "EG"
+      ],
+      "logo": "https://cdn.niceonesa.com/web/assets_v2/images/ltr_logo.svg?v=2.7.0",
+      "bannerUrl": "https://d1aq4ubbxe020v.cloudfront.net/image/catalog%2Fapp_com%2F53472196_1789981709_52fb02233187ffd01f79c6ae99fcad1e-1500x1500.png?format=auto&width=1600"
+    },
+    {
+      "id": "namshi",
+      "nameAr": "نمشي",
+      "nameEn": "Namshi",
+      "logoUrl": "data:image/png;base64,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",
+      "coverUrl": "https://f.nooncdn.com/mpcms/EN0111/assets/1a65650e-235a-40d7-a9e0-f3a74c7efd17.jpg?format=avif&width=1280",
+      "category": "shoesandfootwear",
+      "websiteUrl": "https://www.namshi.com/uae-en",
+      "rating": 4.7,
+      "totalReviews": 120,
+      "descriptionAr": "نمشي هي **منصة رائدة للتجارة الإلكترونية في مجال الأزياء وأسلوب الحياة في الشرق الأوسط**.",
+      "descriptionEn": "Namshi is a leading online fashion and lifestyle e-commerce platform in the Middle East",
+      "isFeatured": true,
+      "tags": [],
+      "categories": [
+        "shoesandfootwear"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM",
+        "EG"
+      ],
+      "logo": "data:image/png;base64,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",
+      "bannerUrl": "https://f.nooncdn.com/mpcms/EN0111/assets/1a65650e-235a-40d7-a9e0-f3a74c7efd17.jpg?format=avif&width=1280"
+    },
+    {
+      "id": "reef",
+      "nameAr": "ريف",
+      "nameEn": "Reef",
+      "logoUrl": "https://cdn.files.salla.network/theme/254895921/366dc30f-f483-4ab5-bc2f-58a0adce3d25.webp",
+      "coverUrl": "https://cdn.files.salla.network/homepage/254895921/6fe203ee-16fd-4133-816b-b2db2aa3cfdd-original.webp",
+      "category": "perfumesandfragrances",
+      "websiteUrl": "https://reefperfumes.com/en",
+      "rating": 4.9,
+      "totalReviews": 120,
+      "descriptionAr": "ريف هي دار عطور راقية، تستند إلى خبرة عميقة في صناعة العطور وجودة استثنائية. ومن خلال علاقاتنا الممتدة مع موردين موثوقين، نصنع عطورًا أنيقة تعكس التفرد...",
+      "descriptionEn": "Reef is a refined fragrance house shaped by deep perfumery expertise and exceptional quality. Through enduring relationships with trusted suppliers, we craft elegant scents that reflect individuali",
+      "isFeatured": true,
+      "tags": [],
+      "categories": [
+        "perfumesandfragrances"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM",
+        "EG"
+      ],
+      "logo": "https://cdn.files.salla.network/theme/254895921/366dc30f-f483-4ab5-bc2f-58a0adce3d25.webp",
+      "bannerUrl": "https://cdn.files.salla.network/homepage/254895921/6fe203ee-16fd-4133-816b-b2db2aa3cfdd-original.webp"
+    },
+    {
+      "id": "levelshoes",
+      "nameAr": "ليفيل شوز",
+      "nameEn": "Level Shoes",
+      "logoUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALcAAACUCAMAAADmiEg1AAAAbFBMVEX///8AAAAAAALj4+NqamrU1NRXV1i9vb7X19cqKipFRUbz8/P7+/vr6+v39/fn5+eoqKjFxcU7Ozvd3d1xcXEPDw/Ozs61tbWFhYWurq6ioqIdHR1SUlJ6enuRkZEUFBQyMjJhYWEjIySampvCbk2MAAAGGElEQVR4nO2baZOrKhCGwxjjvq9xN/n///EI3aAmTk7dUyFTc6ufmg+CtLTktWnQOZ0IgiAIgiAIgiAIgvh/4glCzb340I3/tgtmLuNc3nbBY0zRC6vedkHjIi54ftsFj0G/rbddcPH76+vrA37zXshv4Tf7iN+MxvtE4/0X6LlESCcvIZ0gpJOXkE4Q0slLSCcI6eQlpBOEdPISGm/kN4/3b/WbdPItpBOEdPIS0glCOnkJ6QQhnbyEdIKQTl5COkFIJy+h8UZ+83gf+x3+6zcSR4af0YmX1O7IWNvV5upDAOw+xfAe6nwjnp0vVqTnq/fot3adRPHIFNM1wOr++ZOGYIY6vLmwnFdDVhubW9SvE9/iX6R8IfzTlBJbgjvDxpsSbrDHBsPesL2vY65fJ/cb71z9LZ058LWL74oTU7AaN6INM0UhuwivV2PGZqUy7Tq5Q+cSOIburlBKlK3XiRpHeBc4B5buxm+tOomxw2LqznM3yf7FiGY3UciVrSl+AHblx75s6rjz+ZK2WDqrplp1Yk9w/UsciZN30AZLuTjCGk4q20GUi4wf99Bwqk2uf8/KQWRFrPzWqJMQe68jeTo7Q83AC1XBdkIZhWnPn75khPtT58IKRtw1pN8adVKiJ5uQ4bnQPR9Uo9tpKltlEubiuLA3V67gdKPPb6kTXwQyVuymjEjUgYh7cSgjSi0cE3dUOvwENJL4vbiyG6Df+nQSTOtztgKqzoUaWrZq1ofWInjHIOa9oQ2yMtFvfTqx4ZetMntDBuHP4Tr1001EscRNjNwVLxf1894wAVnF2vyWOqmE20Xq7kjhbkTUGOCnF8e1EJDDn4XIZRAC94hgCHepVScirq0zx2YGkVHEw19kOQzAUMgkYy8sO/Rb33jncmrfzfM4aUOXnXC8DiFcLK6JiGmzp/ZrIUW/9Y13fzxq2zwQgpuT8djD206i9rvxFki/9T2XOP/dnAMKyAoNB4WCkobQkhXCsj0ybGdtfkudWPB0WfYBuIAQcz1PO0ox8CPMhngTw6GhgX7r0wnGQfNVewva+DDp5DBFef3fFqladYJzer1r8PClfATtm5sKLJwr3M1+bQaGnj6/VT7YwJy+G/BmPnNKWYZcwBFWXYaVZirK/e7KwnBuQvRbYz5oTtscTpBAULioVU5ywwC3+2UwkYxXw3DexiHN6wZQLetUOlo5kOht/jFBiEm43a61NtzNqFafUc7WvEb7uiGAeWUZXyvwvMC6MLYmT8hdTjKs8x9rl8XwYCyWdt3iggMzW93rS7NlDxOI6H1r4eGiHRcTknldXn6tC0zpqPZ9iMphaiNB+tcZO5NO1u+qvbNqv1oqvevfh0jcx32I895tSBtl4rES1I/7EM6ayb9fJ50Yn82UYeT7/KJ53O4L8ET8UO9be0MVJU8a/n8nyqc0TaeHyDvhTls79c+blP6dm6ST93TmdE9voJPCcZPtCdsRJsmzyVvxqqHP836w/vOerHmv+8Uwzv7eVBP+P/8T3Pv+e44gCIIgCOKX4yVxXOIKPrQgtTOS9cWlbTXXUhX9BMC8NkziJnlYanyIM2tbdkZ/cbehUUn/kn/zFHuWyTSuI1rcYqnZeGPdy00vTVhsMIwmhwE1cPkbK7975lpZeVeORuPFNs3Shly9ZH1mXB/Xdh+hd/hoYRb95HfFzsLDsnVBGVGRb4yHMTn9UAoes2Fd5yi/C/TbdQLZDN7x7f1OWH2wgPsInsvySnZusLm6Xq9Vjn4bk1xDe6j8aHR5C1SG3y0GP+S5UTOW7z/fWJa6uNN3U9s9+II2asV5uekQDQU7614Af4Of9SyFkLDEk8gwjMWb78d7DpYWaox9Y2C38vRDNPiFjNL3F+r7cjNkC9hB2etbYLGD/QvteHykDfHW7CCeJGzmL9H8hF2O4knIP4gI5D7sR7mzpixzFOzTeC8TSxcn1jC2OLdEY5dYloXzZcXuSVljqPksdsfamwxnmZov5W53GLesWOZLOSVG8Nw6+MZtZqPD8uD0A4TZNY5w6vAxEfHKVbFe2VTZWjRLji2/asuqOKOtH4IgCIIgCIIgCIIgfgN/AILIVDXsg6NrAAAAAElFTkSuQmCC",
+      "coverUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwnBcnftlf_3DNuJq-t5I-sqBciM8S87X5hhNPAhHHtA&s=10",
+      "category": "shoesandfootwear",
+      "websiteUrl": "https://en-saudi.levelshoes.com/",
+      "rating": 5,
+      "totalReviews": 120,
+      "descriptionAr": "**ليفيل شوز (Level Shoes)** هو **وجهة عالمية فاخرة ومتجر متخصص في بيع الأحذية والحقائب والإكسسوارات من أشهر المصممين للنساء والرجال والأطفال**.",
+      "descriptionEn": "Level Shoes is a global luxury retail concept and destination for designer footwear, bags, and accessories for women, men, and kids",
+      "isFeatured": true,
+      "tags": [],
+      "categories": [
+        "shoesandfootwear"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM",
+        "EG"
+      ],
+      "logo": "data:image/png;base64,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",
+      "bannerUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwnBcnftlf_3DNuJq-t5I-sqBciM8S87X5hhNPAhHHtA&s=10"
+    }
+  ],
+  "coupons": [
+    {
+      "id": "c_1790388545862",
+      "storeId": "mumzworld",
+      "categoryId": "babyandmaternity",
+      "code": "BF6",
+      "discount": "10%",
+      "titleAr": "خصم 10% على جميع المنتجات",
+      "titleEn": "10% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": true,
+      "isVerified": true,
+      "badgeType": "exclusive",
+      "expiryDate": "2026-12-31",
+      "usedCount": 250,
+      "categoryIds": [
+        "babyandmaternity"
+      ],
+      "categories": [
+        "babyandmaternity"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM",
+        "EG"
+      ]
+    },
+    {
+      "id": "c_1790389917654",
+      "storeId": "noon",
+      "categoryId": "makeup",
+      "categoryIds": [
+        "makeup",
+        "haircare",
+        "skincare",
+        "perfumesandfragrances",
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "beautyandpersonal care",
+        "toysandkids",
+        "homeandfurniture",
+        "babyandmaternity",
+        "homeappliances",
+        "electronics",
+        "mobilesandaccessories",
+        "sportsandfitness",
+        "jewelryandwatches"
+      ],
+      "categories": [
+        "makeup",
+        "haircare",
+        "skincare",
+        "perfumesandfragrances",
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "beautyandpersonal care",
+        "toysandkids",
+        "homeandfurniture",
+        "babyandmaternity",
+        "homeappliances",
+        "electronics",
+        "mobilesandaccessories",
+        "sportsandfitness",
+        "jewelryandwatches"
+      ],
+      "countries": [
+        "SA",
+        "AE"
+      ],
+      "code": "GNT25",
+      "discount": "20% OFF",
+      "titleAr": "خصم 20% على جميع المنتجات",
+      "titleEn": "20% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": true,
+      "isVerified": true,
+      "badgeType": "exclusive",
+      "expiryDate": "2026-12-31",
+      "usedCount": 250
+    },
+    {
+      "id": "c_1790389967926",
+      "storeId": "daralamirat",
+      "categoryId": "beautyandpersonal care",
+      "categoryIds": [
+        "beautyandpersonal care",
+        "makeup",
+        "skincare"
+      ],
+      "categories": [
+        "beautyandpersonal care",
+        "makeup",
+        "skincare"
+      ],
+      "countries": [
+        "SA"
+      ],
+      "code": "MB7",
+      "discount": "20% OFF",
+      "titleAr": "خصم 20% على جميع المنتجات",
+      "titleEn": "20% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": true,
+      "isVerified": true,
+      "badgeType": "exclusive",
+      "expiryDate": "2026-12-31",
+      "usedCount": 250
+    },
+    {
+      "id": "c_1790390003902",
+      "storeId": "homzmart",
+      "categoryId": "homeandfurniture",
+      "categoryIds": [
+        "homeandfurniture"
+      ],
+      "categories": [
+        "homeandfurniture"
+      ],
+      "countries": [
+        "EG"
+      ],
+      "code": "GN32",
+      "discount": "20% OFF",
+      "titleAr": "خصم 20% على جميع المنتجات",
+      "titleEn": "20% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": true,
+      "isVerified": true,
+      "badgeType": "exclusive",
+      "expiryDate": "2026-12-31",
+      "usedCount": 250
+    },
+    {
+      "id": "c_1790390043566",
+      "storeId": "alnahdi",
+      "categoryId": "healthandpharmacy",
+      "categoryIds": [
+        "healthandpharmacy"
+      ],
+      "categories": [
+        "healthandpharmacy"
+      ],
+      "countries": [
+        "SA",
+        "AE"
+      ],
+      "code": "1M89",
+      "discount": "20% OFF",
+      "titleAr": "خصم 20% على جميع المنتجات",
+      "titleEn": "20% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": true,
+      "isVerified": true,
+      "badgeType": "exclusive",
+      "expiryDate": "2026-12-31",
+      "usedCount": 250
+    },
+    {
+      "id": "c_1790390069990",
+      "storeId": "osma",
+      "categoryId": "perfumesandfragrances",
+      "categoryIds": [
+        "perfumesandfragrances"
+      ],
+      "categories": [
+        "perfumesandfragrances"
+      ],
+      "countries": [
+        "SA"
+      ],
+      "code": "BBT1",
+      "discount": "20% OFF",
+      "titleAr": "خصم 20% على جميع المنتجات",
+      "titleEn": "20% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": true,
+      "isVerified": true,
+      "badgeType": "exclusive",
+      "expiryDate": "2026-12-31",
+      "usedCount": 250
+    },
+    {
+      "id": "c_1790390100982",
+      "storeId": "niceone",
+      "categoryId": "beautyandpersonal care",
+      "categoryIds": [
+        "beautyandpersonal care"
+      ],
+      "categories": [
+        "beautyandpersonal care"
+      ],
+      "countries": [
+        "OM",
+        "BH",
+        "QA",
+        "KW",
+        "AE",
+        "SA"
+      ],
+      "code": "NE11",
+      "discount": "20% OFF",
+      "titleAr": "خصم 20% على جميع المنتجات",
+      "titleEn": "20% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": true,
+      "isVerified": true,
+      "badgeType": "exclusive",
+      "expiryDate": "2026-12-31",
+      "usedCount": 250
+    },
+    {
+      "id": "c_1790390135766",
+      "storeId": "namshi",
+      "categoryId": "shoesandfootwear",
+      "categoryIds": [
+        "shoesandfootwear"
+      ],
+      "categories": [
+        "shoesandfootwear"
+      ],
+      "countries": [
+        "SA",
+        "AE"
+      ],
+      "code": "5NA3",
+      "discount": "20% OFF",
+      "titleAr": "خصم 20% على جميع المنتجات",
+      "titleEn": "20% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": true,
+      "isVerified": true,
+      "badgeType": "exclusive",
+      "expiryDate": "2026-12-31",
+      "usedCount": 250
+    },
+    {
+      "id": "c_1790390166222",
+      "storeId": "reef",
+      "categoryId": "perfumesandfragrances",
+      "categoryIds": [
+        "perfumesandfragrances"
+      ],
+      "categories": [
+        "perfumesandfragrances"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM",
+        "EG"
+      ],
+      "code": "REE109",
+      "discount": "20% OFF",
+      "titleAr": "خصم 20% على جميع المنتجات",
+      "titleEn": "20% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": true,
+      "isVerified": true,
+      "badgeType": "exclusive",
+      "expiryDate": "2026-12-31",
+      "usedCount": 250
+    },
+    {
+      "id": "c_1790390199174",
+      "storeId": "alnahdi",
+      "categoryId": "healthandpharmacy",
+      "categoryIds": [
+        "healthandpharmacy"
+      ],
+      "categories": [
+        "healthandpharmacy"
+      ],
+      "countries": [
+        "SA",
+        "AE"
+      ],
+      "code": "UUW0",
+      "discount": "20% OFF",
+      "titleAr": "خصم 20% على جميع المنتجات",
+      "titleEn": "20% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": true,
+      "isVerified": true,
+      "badgeType": "exclusive",
+      "expiryDate": "2026-12-31",
+      "usedCount": 250
+    },
+    {
+      "id": "c_1790390229486",
+      "storeId": "levelshoes",
+      "categoryId": "shoesandfootwear",
+      "categoryIds": [
+        "shoesandfootwear"
+      ],
+      "categories": [
+        "shoesandfootwear"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "code": "PLC33",
+      "discount": "20% OFF",
+      "titleAr": "خصم 20% على جميع المنتجات",
+      "titleEn": "20% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": true,
+      "isVerified": true,
+      "badgeType": "exclusive",
+      "expiryDate": "2026-12-31",
+      "usedCount": 250
+    },
+    {
+      "id": "c_1790390250094",
+      "storeId": "niceone",
+      "categoryId": "beautyandpersonal care",
+      "categoryIds": [
+        "beautyandpersonal care"
+      ],
+      "categories": [
+        "beautyandpersonal care"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "code": "GC",
+      "discount": "20% OFF",
+      "titleAr": "خصم 20% على جميع المنتجات",
+      "titleEn": "20% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": true,
+      "isVerified": true,
+      "badgeType": "exclusive",
+      "expiryDate": "2026-12-31",
+      "usedCount": 250
+    },
+    {
+      "id": "c_1790390291182",
+      "storeId": "niceone",
+      "categoryId": "beautyandpersonal care",
+      "categoryIds": [
+        "beautyandpersonal care"
+      ],
+      "categories": [
+        "beautyandpersonal care"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "code": "GCC1",
+      "discount": "20% OFF",
+      "titleAr": "خصم 20% على جميع المنتجات",
+      "titleEn": "20% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": true,
+      "isVerified": true,
+      "badgeType": "exclusive",
+      "expiryDate": "2026-12-31",
+      "usedCount": 250
+    },
+    {
+      "id": "c_1790390324094",
+      "storeId": "namshi",
+      "categoryId": "shoesandfootwear",
+      "categoryIds": [
+        "shoesandfootwear"
+      ],
+      "categories": [
+        "shoesandfootwear"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "code": "DRRK",
+      "discount": "20% OFF",
+      "titleAr": "خصم 20% على جميع المنتجات",
+      "titleEn": "20% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": true,
+      "isVerified": true,
+      "badgeType": "exclusive",
+      "expiryDate": "2026-12-31",
+      "usedCount": 250
+    },
+    {
+      "id": "c_1790390341750",
+      "storeId": "reef",
+      "categoryId": "perfumesandfragrances",
+      "categoryIds": [
+        "perfumesandfragrances"
+      ],
+      "categories": [
+        "perfumesandfragrances"
+      ],
+      "countries": [
+        "BH",
+        "QA",
+        "AE",
+        "SA"
+      ],
+      "code": "PF20",
+      "discount": "20% OFF",
+      "titleAr": "خصم 20% على جميع المنتجات",
+      "titleEn": "20% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": true,
+      "isVerified": true,
+      "badgeType": "exclusive",
+      "expiryDate": "2026-12-31",
+      "usedCount": 250
+    },
+    {
+      "id": "c_1790390373766",
+      "storeId": "noon",
+      "categoryId": "makeup",
+      "categoryIds": [
+        "makeup",
+        "haircare",
+        "skincare",
+        "perfumesandfragrances",
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "beautyandpersonal care",
+        "toysandkids",
+        "homeandfurniture",
+        "babyandmaternity",
+        "homeappliances",
+        "electronics",
+        "mobilesandaccessories",
+        "sportsandfitness",
+        "jewelryandwatches"
+      ],
+      "categories": [
+        "makeup",
+        "haircare",
+        "skincare",
+        "perfumesandfragrances",
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "beautyandpersonal care",
+        "toysandkids",
+        "homeandfurniture",
+        "babyandmaternity",
+        "homeappliances",
+        "electronics",
+        "mobilesandaccessories",
+        "sportsandfitness",
+        "jewelryandwatches"
+      ],
+      "countries": [
+        "SA",
+        "AE",
+        "KW",
+        "QA",
+        "BH",
+        "OM"
+      ],
+      "code": "CSS7",
+      "discount": "20% OFF",
+      "titleAr": "خصم 20% على جميع المنتجات",
+      "titleEn": "20% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": true,
+      "isVerified": true,
+      "badgeType": "exclusive",
+      "expiryDate": "2026-12-31",
+      "usedCount": 250
+    },
+    {
+      "id": "c_1790390395814",
+      "storeId": "noon",
+      "categoryId": "makeup",
+      "categoryIds": [
+        "makeup",
+        "haircare",
+        "skincare",
+        "perfumesandfragrances",
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "beautyandpersonal care",
+        "toysandkids",
+        "homeandfurniture",
+        "babyandmaternity",
+        "homeappliances",
+        "electronics",
+        "mobilesandaccessories",
+        "sportsandfitness",
+        "jewelryandwatches"
+      ],
+      "categories": [
+        "makeup",
+        "haircare",
+        "skincare",
+        "perfumesandfragrances",
+        "fashionandclothing",
+        "shoesandfootwear",
+        "bagsandaccessories",
+        "beautyandpersonal care",
+        "toysandkids",
+        "homeandfurniture",
+        "babyandmaternity",
+        "homeappliances",
+        "electronics",
+        "mobilesandaccessories",
+        "sportsandfitness",
+        "jewelryandwatches"
+      ],
+      "countries": [
+        "EG"
+      ],
+      "code": "MP530",
+      "discount": "20% OFF",
+      "titleAr": "خصم 20% على جميع المنتجات",
+      "titleEn": "20% OFF on all products",
+      "descriptionAr": "استخدم الكود عند الدفع للحصول على الخصم الفوري",
+      "descriptionEn": "Use code at checkout to get instant discount",
+      "termsAr": "العرض سارٍ على جميع الأقسام بدون حد أدنى للطلب",
+      "termsEn": "Valid on all categories with no minimum spend",
+      "isExclusive": true,
+      "isVerified": true,
+      "badgeType": "exclusive",
+      "expiryDate": "2026-12-31",
+      "usedCount": 250
+    }
+  ],
+  "meta": {
+    "versionUrl": "https://raw.githubusercontent.com/couponalarab/app-data/main/version.json",
+    "dataUrl": "https://raw.githubusercontent.com/couponalarab/app-data/main/coupons.json"
+  }
+}
