@@ -1,12 +1,12 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-10-08T20:24:25.345Z",
+  "updatedAt": "2026-10-08T20:30:51.837Z",
   "announcementAr": "🎉 أقوى عروض اليوم في الرياض وجميع المدن - وفّر حتى 70% مع كبرى المتاجر العالمية والمحلية!",
   "announcementEn": "🎉 Today's top offers in Riyadh and all cities - Save up to 70% on top global & local brands!",
   "announcementBar": {
     "message": {
-      "ar": "نحتفل معكم باليوم الوطني السعودي، ونشارككم فرحة وطنٍ عزيز، وتاريخٍ نفخر به، ومستقبلٍ نصنعه معًا.          ",
-      "en": "We’re celebrating Saudi National Day with you, honoring a nation we’re proud of, its remarkable journey, and a future we build together.    "
+      "ar": "مرحبا بكم في كوبون العرب",
+      "en": "Welcome to Coupon Alarab"
     },
     "action": {
       "type": "coupon",
@@ -15,8 +15,8 @@
   },
   "welcomeStatement": {
     "headline": {
-      "ar": "دام عزك يا وطن",
-      "en": "Long live Saudi Arabia"
+      "ar": "نص مضاف للتحديث اونلاين",
+      "en": "Text Updated Online"
     },
     "subheadline": {
       "ar": "كل عام والسعودية بخير",
