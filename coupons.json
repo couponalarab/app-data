@@ -1,12 +1,12 @@
 {
-  "version": "1.0.3",
-  "updatedAt": "2026-10-09T19:05:53.298Z",
-  "announcementAr": "🎉 نلالتتبتلبتل!",
-  "announcementEn": "🎉khgjhgjhgjjgfhfdgfdgfdj",
+  "version": "1.0.4",
+  "updatedAt": "2026-10-16T08:36:29.634Z",
+  "announcementAr": "🎉 أقوى عروض اليوم في الرياض وجميع المدن - وفّر حتى 70% مع كبرى المتاجر العالمية والمحلية!",
+  "announcementEn": "🎉 Today's top offers in Riyadh and all cities - Save up to 70% on top global & local brands!",
   "announcementBar": {
     "message": {
-      "ar": "نحتفل معكم باليوم الوطني السعودي، ونشارككم فرحة وطنٍ عزيز، وتاريخٍ نفخر به، ومستقبلٍ نصنعه معًا.          ",
-      "en": "We’re celebrating Saudi National Day with you, honoring a nation we’re proud of, its remarkable journey, and a future we build together.    "
+      "ar": " نص طويل من جيت هاب..نص طويل من جيت هاب..نص طويل من جيت هاب----",
+      "en": "Long Text From Git Hub..Long Text From Git Hub..Long Text From Git Hub..Long Text From Git Hub----"
     },
     "action": {
       "type": "coupon",
@@ -15,44 +15,55 @@
   },
   "welcomeStatement": {
     "headline": {
-      "ar": "دامسيبسيبسيبوطن",
-      "en": "Lfgsdgsdgsdgabia"
+      "ar": "السلام عليكم",
+      "en": "Welcome"
     },
     "subheadline": {
-      "ar": "كل عام والسعودية بخير",
-      "en": "Happy Saudi National Day"
+      "ar": "نص محدث من جيت هاب",
+      "en": "Update from Git Hub"
     }
   },
   "heroBanners": [
     {
-      "id": "banner_noon",
-      "imageUrl": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=800&auto=format&fit=crop&q=80",
-      "storeId": "noon",
+      "id": "banner_1792139753666",
+      "imageUrl": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=800&auto=format&fit=crop&q=80",
+      "storeId": "mumzworld",
+      "badge": {
+        "text": {
+          "ar": "تحديث",
+          "en": "Update"
+        },
+        "textColor": "#FFFFFF",
+        "bgColor": "#EA580C",
+        "icon": "flame"
+      },
       "headline": {
         "text": {
-          "ar": "خصم إضافي 15% على الإلكترونيات",
-          "en": "Extra 15% OFF on Electronics"
-        },
-        "color": "#FFDF00"
-      },
-      "subheadline": {
-        "text": {
-          "ar": "على أحدث اللابتوبات والأجهزة الذكية",
-          "en": "On latest laptops & smart tech"
+          "ar": "خصم استثنائي 50% لفترة محدودة",
+          "en": "Special 50% OFF Limited Time"
         },
         "color": "#FFFFFF"
       },
-      "code": "WAFF25",
+      "subheadline": {
+        "text": {
+          "ar": "استمتع بأقوى التخفيضات مع التوصيل المجاني",
+          "en": "Enjoy top savings with free delivery"
+        },
+        "color": "#F3F4F6"
+      },
+      "code": "SAVE50",
       "cta": {
         "text": {
-          "ar": "عرض الكوبون",
-          "en": "View Coupon"
+          "ar": "احصل على العرض",
+          "en": "Claim Offer"
         },
         "action": {
           "type": "coupon",
-          "targetId": "c_noon_exclusive"
+          "targetId": "c_1790388545862"
         }
-      }
+      },
+      "overlayColor": "#000000",
+      "overlayOpacity": 0.65
     }
   ],
   "featuredBrands": [
