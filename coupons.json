@@ -1,6 +1,6 @@
 {
-  "version": "1.0.5",
-  "updatedAt": "2026-10-16T08:36:29.634Z",
+  "version": "1.0.6",
+  "updatedAt": "2026-10-17T19:44:29.356Z",
   "announcementAr": "🎉 أقوى عروض اليوم في الرياض وجميع المدن - وفّر حتى 70% مع كبرى المتاجر العالمية والمحلية!",
   "announcementEn": "🎉 Today's top offers in Riyadh and all cities - Save up to 70% on top global & local brands!",
   "announcementBar": {
@@ -1162,6 +1162,7 @@
       "usedCount": 250
     }
   ],
+  "shareBaseUrl": "https://couponalarab-share.vercel.app",
   "meta": {
     "versionUrl": "https://raw.githubusercontent.com/couponalarab/app-data/main/version.json",
     "dataUrl": "https://raw.githubusercontent.com/couponalarab/app-data/main/coupons.json",
